@@ -1,8 +1,8 @@
 
 
-# **Credit Card Fraud Detection - Handling Imbalanced Data** 🚀
+# **Credit Card Fraud Detection - Handling Imbalanced Data** 
 
-## 📌 **Project Overview**
+##  **Project Overview**
 This project focuses on detecting fraudulent credit card transactions using **Machine Learning techniques** while addressing the challenges of **highly imbalanced datasets**. The dataset contains **284,807 transactions**, with only **492 fraud cases**, making fraud transactions **0.172%** of the total.
 
 To improve fraud detection, the project implements:
