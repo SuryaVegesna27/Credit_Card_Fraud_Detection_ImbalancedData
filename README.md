@@ -12,21 +12,6 @@ To improve fraud detection, the project implements:
 
 ---
 
-## 📂 **Project Structure**
-```
-fraud-detection/
-│── data/                     # Dataset folder (optional, ignored in .gitignore)
-│── notebooks/                 # Jupyter Notebook for data analysis & modeling
-│   ├── Credit_Fraud_Analysis.ipynb
-│── src/                      # Python script for model execution
-│   ├── fraud_detection.py     
-│── .gitignore                 # Ignore unnecessary files (dataset, logs, etc.)
-│── README.md                  # Project Documentation
-│── requirements.txt            # Required Python libraries
-```
-
----
-
 ## 🚀 **How to Run the Project**
 ### **1️⃣ Clone the Repository**
 ```bash
