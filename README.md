@@ -12,7 +12,7 @@ To improve fraud detection, the project implements:
 
 ---
 
-## 🚀 **How to Run the Project**
+## **How to Run the Project**
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/SuryaVegesna27/Credit_Card_Fraud_Detection_ImbalancedData.git
@@ -70,7 +70,7 @@ python src/fraud_detection.py
 | XGBoost            | 0.87      | 0.83   | 0.85    | 0.95    |
 | Neural Networks    | 0.86      | 0.80   | 0.83    | 0.94    |
 
-✅ **Key Findings:**
+**Key Findings:**
 - **Random Forest achieved the best balance** between Precision, Recall, and AUC-ROC.
 - **SMOTE helped improve recall** (detecting more fraud cases) but slightly increased false positives.
 - **Precision-Recall trade-off**: Higher recall means more fraud cases are detected but increases false alarms.
